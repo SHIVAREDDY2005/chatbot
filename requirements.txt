@@ -1,0 +1,12 @@
+pandas
+numpy
+langchain-core
+streamlit
+python-dotenv
+langchain-groq
+langchain-community   # ✅ rag correct
+pypdf
+#for web reader
+bs4
+#tostore vectors
+chromadb
