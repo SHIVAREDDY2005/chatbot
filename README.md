@@ -21,7 +21,7 @@ dotenv
 
 ▶️ How to Run
 Clone this repo
-git clone https://github.com/your-username/kulonni-chatbot.git
+git clone [https://github.com/SHIVAREDDY2005/chatbot.git]
 cd kulonni-chatbot
 Install dependencies
 pip install -r requirements.txt
